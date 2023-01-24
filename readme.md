@@ -1,4 +1,4 @@
-# postgre express
+# postgres express
 
 ## install & build
 
