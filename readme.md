@@ -2,18 +2,20 @@
 
 ## install & build
 
+* install docker
 ```sh
-install docker :
-
 sudo pacman -S docker docker-compose
-
-packege install :
+```
+* packege install 
+```
 docker-compose run node yarn
-
-up :
+```
+* up
+```
 docker-compose up
-
-psql :
+```
+* psql
+```
 psql -h localhost -U postgres -d postgres
 ```
 
